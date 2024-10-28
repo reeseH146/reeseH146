@@ -10,7 +10,8 @@
 # Goals
  - Understand advanced Python, different commonly used libraries and different way python can be applied
  - Learn web dev and be able to make and host my own websites
- - Learn lower level languages such as Rust and Java 
+ - Learn lower level languages such as Rust and Java
+ - Somehow wrap my head around GIT and Github so I use it other than Commit, Push and Clone
 <!---
 reeseH146/reeseH146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
