@@ -3,7 +3,7 @@
   Currently studying and programming, mostly games since they're easy to manage, in my free time.
 
 # Current skills
-  Python - Understands good amount of python and game library pygame
+  Python - Understands good amount of python and game library pygame  
   Web Dev - Know a few HTML and CSS commands
 
 # Goals
@@ -14,8 +14,8 @@
  - Learn back end and a bit of front end and how to make them interact with each other
 
 # Socials
-[YT channel, will put CS NEA recordings or something here](https://www.youtube.com/@Reese-66146/featured)
-[Sololearn account](https://www.sololearn.com/en/profile/30518862)
+[YT channel, will put CS NEA recordings or something here](https://www.youtube.com/@Reese-66146/featured)  
+[Sololearn account](https://www.sololearn.com/en/profile/30518862)  
 My Email - reesehe.66146@gmail.com
 <!---
 reeseH146/reeseH146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
