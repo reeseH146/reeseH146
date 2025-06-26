@@ -5,13 +5,12 @@
 # Current skills
   Python - Understands good amount of python and game library pygame  
   Web Dev - Know a few HTML and CSS commands
+  C# - I know basic syntax and currently learning more complex C# and common packages
 
 # Goals
- - Understand advanced Python, different commonly used libraries and different way python can be applied
- - Learn web dev and be able to make and host my own websites
- - Learn lower level languages such as Rust and Java
- - Somehow wrap my head around GIT and Github so I use it other than Commit, Push and Clone
- - Learn back end and a bit of front end and how to make them interact with each other
+ - Capable of utilising a variety python libraries (Matplot, Pandas, PIL)
+ - Build windows applications with C# (WPF, Winforms)
+ - Whatever I can I guess?
 
 # Socials
 [YT channel, will put CS NEA recordings or something here](https://www.youtube.com/@Reese-66146/featured)  
