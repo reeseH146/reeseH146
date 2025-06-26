@@ -5,7 +5,6 @@
 # Current skills
   Python - Understands good amount of python and game library pygame  
   Web Dev - Know a few HTML and CSS commands
-  
   C# - I know basic syntax and currently learning more complex C# and common packages
 
 # Goals
