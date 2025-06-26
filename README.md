@@ -3,13 +3,13 @@
   Currently studying and programming, mostly games since they're easy to manage, in my free time.
 
 # Current skills
-  C# - I know basic syntax and currently learning more complex C# and common packages
-  Python - Understands good amount of python and game library pygame  
-  Web Dev - Know a few HTML and CSS commands
+ - C# - I know basic syntax and currently learning more complex C# and common packages
+ + Python - Understands good amount of python and game library pygame  
+ - Web Dev - Know a few HTML and CSS commands
 
 # Goals
  - Capable of utilising a variety python libraries (Matplot, Pandas, PIL)
- - Build windows applications with C# (WPF, Winforms)
+ + Build windows applications with C# (WPF, Winforms)
  - Whatever I can I guess?
 
 # Socials
